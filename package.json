@@ -1,0 +1,19 @@
+{
+  "name": "cross-validartions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/van1985/cross-validations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/van1985/cross-validations/issues"
+  },
+  "homepage": "https://github.com/van1985/cross-validations#readme"
+}
