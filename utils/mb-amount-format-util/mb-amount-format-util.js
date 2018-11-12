@@ -36,6 +36,4 @@ const formatAmount = (number, lang, decimals = 2, showCurrency = true) => {
     }
 };
 
-module.exports = {
-    formatAmount
-};
+export default formatAmount
