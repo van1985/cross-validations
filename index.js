@@ -1,1 +1,1 @@
-export { default as formatAmount } from './utils/mb-amount-format-util/mb-amount-format-util';
+export { default as formatAmount } from './utils/amount-format/amount-format';
